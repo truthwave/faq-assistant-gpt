@@ -34,11 +34,7 @@
 ## 📸 **体験イメージ**
 ![デモ動画](https://github.com/TomoProgrammingDayori/faq-assistant-gpt/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
 
-![リモートワーク申請に関する社内ルールのQ&A](https://github.com/TomoProgrammingDayori/faq-assistant-gpt/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E7%94%B3%E8%AB%8B%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%A4%BE%E5%86%85%E3%83%AB%E3%83%BC%E3%83%AB%E3%81%AEQ%26A.jpeg)
-
-![営業部のフロアについてのQ&A](https://github.com/TomoProgrammingDayori/faq-assistant-gpt/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E5%96%B6%E6%A5%AD%E9%83%A8%E3%81%AE%E3%83%95%E3%83%AD%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AEQ%26A.jpeg)
-
-![育児休業に関するQ&A](https://github.com/TomoProgrammingDayori/faq-assistant-gpt/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E8%82%B2%E5%85%90%E4%BC%91%E6%A5%AD%E6%9C%9F%E9%96%93%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8BQ%26A.jpeg)
+### [スクリーンショットはこちら](https://github.com/truthwave/faq-assistant-gpt/tree/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88)
 
 ---
 
