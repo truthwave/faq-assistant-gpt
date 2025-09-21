@@ -77,7 +77,7 @@
 
 - [Microsoft認定スキル × GPTs活用リポジトリ](https://github.com/TomoProgrammingDayori/ai-productivity-cert-practical-output)
   ↳ 他にも実務に効くGPTを掲載しています。
-- [議事録3行要約 & ToDo抽出GPT](https://chatgpt.com/g/g-68a5cc11df888191b7b07a9da688b741-yi-shi-lu-3xing-yao-yue-todochou-chu-asisutanto)
+- [議事録3行要約 & ToDo抽出GPT](https://github.com/truthwave/meeting-minutes-helper)
  ↳ 会議の議事録を“3行”でまとめ、タスクも抽出。
 ---
 
