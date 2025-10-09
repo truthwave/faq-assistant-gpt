@@ -64,7 +64,7 @@
 
 ## 📂 関連リンク
 
-- [Microsoft認定スキル × GPTs活用リポジトリ](https://github.com/TomoProgrammingDayori/ai-productivity-cert-practical-output)
+- [Microsoft認定スキル × GPTs活用リポジトリ](https://github.com/truthwave/ai-productivity-cert-practical-output)
 
 - [議事録らくらくGPT](https://github.com/truthwave/meeting-minutes-helper)
 
