@@ -3,6 +3,11 @@
 > **Answer “Who should I ask?” in 10 seconds.**
 > Reduce Slack confusion time to near zero.
 
+<p align="center">
+<img width="1536" height="1024" alt="社内FAQ即答アシスタント GPT" src="https://github.com/user-attachments/assets/4c2b0d37-535a-4420-b30b-6177081f9431" />
+
+</p>
+
 ---
 
 ## Experience (3 examples suffice)
