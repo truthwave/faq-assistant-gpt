@@ -4,8 +4,7 @@
 > Reduce Slack confusion time to near zero.
 
 <p align="center">
-<img width="1536" height="1024" alt="社内FAQ即答アシスタント GPT" src="https://github.com/user-attachments/assets/4c2b0d37-535a-4420-b30b-6177081f9431" />
-
+<img width="1536" height="1024" alt="20251018_1832_Golden Communication Network_simple_compose_01k7vahm5ge0atysxnnj9s5hr6" src="https://github.com/user-attachments/assets/8a2c7cae-437e-4c63-9c2c-f669e5b508b2" />
 </p>
 
 ---
