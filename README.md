@@ -4,7 +4,7 @@
 > Slackの迷子時間を、0に近づける。
 
 <p align="center">
-<img width="1536" height="1024" alt="FAQ (1)" src="https://github.com/user-attachments/assets/acd47f2e-43d8-4bdb-aeff-c101fc89d1a0" />
+<img width="1536" height="1024" alt="FAQ" src="https://github.com/user-attachments/assets/fbe97559-b064-49d9-ae61-28de2482a01c" />
 </p>
 
 
